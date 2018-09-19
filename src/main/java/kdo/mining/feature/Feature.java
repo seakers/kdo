@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.orekit.kdo.mining.feature;
+package kdo.mining.feature;
 
 import java.util.BitSet;
 

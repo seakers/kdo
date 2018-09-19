@@ -1,6 +1,6 @@
-package com.orekit.kdo.mining;
+package kdo.mining;
 
-import com.orekit.kdo.mining.feature.DrivingFeature;
+import kdo.mining.feature.DrivingFeature;
 import java.util.ArrayList;
 import java.util.BitSet;
 import java.util.List;

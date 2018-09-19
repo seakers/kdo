@@ -1,8 +1,10 @@
+package kdo.test;
 
-import com.orekit.kdo.mining.CAR;
-import com.orekit.kdo.mining.MRMR;
-import com.orekit.kdo.mining.feature.DrivingFeature;
-import com.orekit.kdo.mining.feature.FeatureMetric;
+
+import kdo.mining.CAR;
+import kdo.mining.MRMR;
+import kdo.mining.feature.DrivingFeature;
+import kdo.mining.feature.FeatureMetric;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;

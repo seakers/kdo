@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.orekit.kdo.mining;
+package kdo.mining;
 
-import com.orekit.kdo.mining.feature.FeatureMetric;
-import com.orekit.kdo.mining.feature.DrivingFeature;
-import com.orekit.kdo.mining.feature.AbstractFeature;
-import com.orekit.kdo.mining.feature.FeatureComparator;
+import kdo.mining.feature.FeatureMetric;
+import kdo.mining.feature.DrivingFeature;
+import kdo.mining.feature.AbstractFeature;
+import kdo.mining.feature.FeatureComparator;
 import java.util.*;
 import java.util.logging.Logger;
 import org.hipparchus.util.Combinations;
