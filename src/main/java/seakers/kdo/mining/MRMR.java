@@ -1,6 +1,6 @@
-package kdo.mining;
+package seakers.kdo.mining;
 
-import kdo.mining.feature.DrivingFeature;
+import seakers.kdo.mining.feature.DrivingFeature;
 import java.util.ArrayList;
 import java.util.BitSet;
 import java.util.List;

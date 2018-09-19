@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package kdo.mining.feature;
+package seakers.kdo.mining.feature;
 
 /**
  * An Enum for the metrics for a feature (support, forward and reverse confidence, and lift)

@@ -1,10 +1,10 @@
-package kdo.test;
+package seakers.kdo.test;
 
 
-import kdo.mining.CAR;
-import kdo.mining.MRMR;
-import kdo.mining.feature.DrivingFeature;
-import kdo.mining.feature.FeatureMetric;
+import seakers.kdo.mining.CAR;
+import seakers.kdo.mining.MRMR;
+import seakers.kdo.mining.feature.DrivingFeature;
+import seakers.kdo.mining.feature.FeatureMetric;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;

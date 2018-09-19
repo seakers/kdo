@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package kdo.mining;
+package seakers.kdo.mining;
 
-import kdo.mining.feature.FeatureMetric;
-import kdo.mining.feature.DrivingFeature;
-import kdo.mining.feature.AbstractFeature;
-import kdo.mining.feature.FeatureComparator;
+import seakers.kdo.mining.feature.FeatureMetric;
+import seakers.kdo.mining.feature.DrivingFeature;
+import seakers.kdo.mining.feature.AbstractFeature;
+import seakers.kdo.mining.feature.FeatureComparator;
 import java.util.*;
 import java.util.logging.Logger;
 import org.hipparchus.util.Combinations;
